@@ -13,7 +13,7 @@ LINK GITHUB: https://github.com/NikuAfreak/Nusantara-Journeys
 
 PROTOTYPE LINK: https://sites.google.com/view/nusantarajourneys/home
 
-YOUTUBE LINK:
+YOUTUBE LINK: https://www.youtube.com/watch?v=-o1n_LA-XiI 
 
 TITLE: Nusantara Journey
 
